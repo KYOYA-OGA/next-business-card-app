@@ -3,6 +3,7 @@
 ## 技術スタック
 
 - React(Next.js)
+- TypeScript
 - TailwindCSS
 - Prisma
 - MySQL
